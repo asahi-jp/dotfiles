@@ -53,6 +53,7 @@ yabai -m config                                 \
 
 # Unmanage Apps
 yabai -m rule --add app="^システム設定$" manage=off
+yabai -m rule --add app="^システム環境設定$" manage=off
 yabai -m rule --add app="^Finder$" manage=off
 yabai -m rule --add app="^Warp$" manage=off
 
