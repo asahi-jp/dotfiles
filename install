@@ -9,4 +9,4 @@ fi
 brew bundle -v --file=~/dotfiles/Brewfile
 
 # zshパッケージ内のファイルを~にリンク
-stow -v -d ~/dotfiles/packages -t ~ zsh starship yabai skhd
+stow -v -d ~/dotfiles/packages -t ~ zsh config yabai skhd

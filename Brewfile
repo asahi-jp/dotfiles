@@ -5,3 +5,4 @@ brew "skhd"
 brew "nodenv"
 
 cask "raycast"
+cask "sourcetree"
