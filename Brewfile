@@ -6,3 +6,4 @@ brew "nodenv"
 
 cask "raycast"
 cask "sourcetree"
+cask "docker"
